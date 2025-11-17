@@ -1,0 +1,10 @@
+criar a tela de pedidos por clientes
+criar tela de adm para visualizar os pedidos com edição, exclusão e mudar o status
+adicionar nome do cliente na hora de cadastrar e mudar em todas as funções
+adicionar filtros para segurança do sistema
+adicionar nomes literais em todas as screens
+tela clientes com pedidos adicionar carrinho de compras ao invés de um botão com frase
+configurar imagens corretas do app
+mudar nome da pasta para Print Art
+adicionar o nome do cliente que fez o pedido
+novas informações no editar do admin
