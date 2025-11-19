@@ -115,16 +115,8 @@ eas build -p android --profile preview
 
 - **Logo:** `assets/logoPrintArt.png`  
 - **Ícone do App:** `assets/icon.png`  
-- **Tema predominante:** Branco e Azul, reforçando o estilo gráfico moderno.  
-
----
-
-## 💡 Melhorias Futuras
-
-- Integração com pagamento via Pix  
-- Upload direto de arquivos para impressão  
-- Notificações push sobre status dos pedidos  
-- Painel web administrativo integrado  
+- **Tema predominante:** Branco e Azul, reforçando o estilo gráfico moderno.
+  
 
 ---
 
